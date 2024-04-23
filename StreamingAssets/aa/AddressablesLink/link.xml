@@ -28,6 +28,7 @@
     <type fullname="LoadingScreenManager" preserve="all" />
     <type fullname="LoginManager" preserve="all" />
     <type fullname="MenuSO" preserve="all" />
+    <type fullname="MusicPlayer" preserve="all" />
     <type fullname="ProjectileFactorySO" preserve="all" />
     <type fullname="ProjectilePoolSO" preserve="all" />
     <type fullname="ReturnToLoader" preserve="all" />
