@@ -29,6 +29,7 @@
     <type fullname="LoginManager" preserve="all" />
     <type fullname="MenuSO" preserve="all" />
     <type fullname="MusicPlayer" preserve="all" />
+    <type fullname="PersistentManagersSO" preserve="all" />
     <type fullname="ProjectileFactorySO" preserve="all" />
     <type fullname="ProjectilePoolSO" preserve="all" />
     <type fullname="ReturnToLoader" preserve="all" />
@@ -53,8 +54,8 @@
     <type fullname="WaveManager" preserve="all" />
     <type fullname="WaveSettingsSO" preserve="all" />
     <type fullname="WaypointsWrapper" preserve="all" />
-    <type fullname="SpawnGroups" preserve="nothing" serialized="true" />
     <type fullname="AudioClipsGroup" preserve="nothing" serialized="true" />
+    <type fullname="SpawnGroups" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="OccaSoftware.SuperSimpleSkybox.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="OccaSoftware.SuperSimpleSkybox.Runtime.Moon" preserve="all" />
